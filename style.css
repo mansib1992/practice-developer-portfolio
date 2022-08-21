@@ -46,3 +46,32 @@ img {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.Experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+
+}
+
+#border-colour-full-Stack {
+    border-left: 7px solid yellow;
+}
+
+#border-colour-junior {
+    border-left: 7px solid orchid;
+}
+
+footer p {
+    text-align: center;
+}
